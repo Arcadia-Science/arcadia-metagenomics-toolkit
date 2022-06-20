@@ -4,9 +4,9 @@ This repository contains code, workflows, and documentation for the Arcadia Meta
 
 1. Read filtering, assembly, mapping, lineage splitting, and statistics 
 2. Automatic reconstruction, evaluation, and annotation of: 
-  a. Prokaryotic MAGs (prokMAGs)
-  b. Eukaryotic MAGS (eukMAGs)
-  c. Viral MAGs (vMAGs) 
+  - Prokaryotic MAGs (prokMAGs)
+  - Eukaryotic MAGS (eukMAGs)
+  - Viral MAGs (vMAGs) 
 3. Relative abundance and diversity comparisons 
 
 Optional intermediate workflows: 
