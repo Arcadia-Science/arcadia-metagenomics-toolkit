@@ -3,8 +3,26 @@
     "homePage": "",
     "repos": {
         "nf-core/modules": {
+            "bowtie2/align": {
+                "git_sha": "848ee9a215d02d80be033bfa60881700f2bd914c"
+            },
+            "bowtie2/build": {
+                "git_sha": "e745e167c1020928ef20ea1397b6b4d230681b4d"
+            },
             "fastp": {
                 "git_sha": "9b51362a532a14665f513cf987531f9ea5046b74"
+            },
+            "samtools/index": {
+                "git_sha": "897c33d5da084b61109500ee44c01da2d3e4e773"
+            },
+            "samtools/sort": {
+                "git_sha": "897c33d5da084b61109500ee44c01da2d3e4e773"
+            },
+            "samtools/view": {
+                "git_sha": "6b64f9cb6c3dd3577931cc3cd032d6fb730000ce"
+            },
+            "spades": {
+                "git_sha": "682f789f93070bd047868300dd018faf3d434e7c"
             }
         }
     }
